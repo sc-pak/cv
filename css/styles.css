@@ -1,0 +1,46 @@
+/*****************************TAG SELECTORS************************************/
+body {
+    background-color: #383e56;
+}
+
+hr {
+    border-color:#d4b5b0;
+    border-style: none;
+    border-top-style:dotted;
+    /* border-width:0px; */
+    /* border-top-style: dotted; */
+    border-width: 7px;
+}
+
+h1 {
+    color: #f69e7b;
+}
+
+h3 {
+        color: #eedad1;
+}
+
+li {
+    color: #d4b5b0;
+}
+
+td {
+    color: #d4b5b0;
+}
+
+th {
+    color: #d4b5b0
+}
+
+/****************************CLASS SELECTORS***********************************/
+.bacon {
+    background-color: green;
+}
+.broccoli {
+    background-color: red;
+}
+
+/****************************ID SELECTORS***********************************/
+/* #profile_pic {
+    border-radius: 50px;
+} */
