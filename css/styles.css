@@ -12,6 +12,14 @@ hr {
     border-width: 4px;
 }
 
+a {
+    color: gold;
+}
+
+a:hover {
+    color: brown;
+}
+
 h1 {
     color: #f69e7b;
 }
