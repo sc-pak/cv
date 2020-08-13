@@ -1,27 +1,29 @@
 body {
     margin: 0;
+    background-color: #ebebeb;
 }
 
 .gallery {
     display: block;
-    background-color: white;
     width: 100%;
     height: 100%;
     position: absolute;
 }
 
 .frame {
+    outline: 3px solid white;
     width: 100%;
     height: 100%;
     overflow: hidden;
     position: relative;
     background-color: white;
+    margin: auto;
 }
 
 .frame img {
     display: block;
     max-width: 95%;
-    max-height: 95%;
+    height: 98%;
     position: absolute;
     top: 0;
     bottom: 0;
